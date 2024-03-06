@@ -231,9 +231,9 @@ int main() {
 
     // Sample users
     User users[MAX_USERS] = {
-        {"admin", "admin123"},
-        {"user1", "pass123"},
-        {"user2", "pass456"}
+        {"awatif", "admin123"},
+        {"muhidin", "pass123"},
+        {"muhsin", "pass456"}
     };
 
     OrderQueue orderQueue;
