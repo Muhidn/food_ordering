@@ -222,11 +222,11 @@ void processNextOrder(OrderQueue* queue) {
 int main() {
     // Sample menu
     FoodItem menu[MAX_FOODS] = {
-        {"Burger", 5.99},
-        {"Pizza", 9.99},
-        {"Salad", 4.99},
-        {"Pasta", 7.99},
-        {"Sandwich", 3.99}
+        {"pilau", 5000},
+        {"Pizza", 3500},
+        {"Salad", 6000},
+        {"Pasta", 12000},
+        {"Sandwich", 3000}
     };
 
     // Sample users
